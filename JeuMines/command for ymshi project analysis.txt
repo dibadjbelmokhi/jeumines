@@ -1,0 +1,1 @@
+-D"sonar.projectKey=firstTry" -D"sonar.sources=." -D"sonar.host.url=http://localhost:9000" -D"sonar.token=sqp_3d1ca9280972d2e654875a450486d840b644f305" -D"sonar.java.binaries=C:\Users\dudu\Downloads\JeuMines-20250216T225820Z-001\JeuMines\src\mines"
